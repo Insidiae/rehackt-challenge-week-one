@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/BaseEntry/BaseEntry.module.css"],"names":[],"mappings":"AAAA,4BACE,WAAY,CACZ,YAAa,CACb,eAAgB,CAChB,gBACF","file":"4.31f61176.chunk.css","sourcesContent":[".baseEntry {\n  width: 800px;\n  height: 600px;\n  min-width: 800px;\n  min-height: 600px;\n}\n"]}
