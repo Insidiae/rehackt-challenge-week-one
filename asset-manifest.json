@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://reactph.github.io/rehackt-challenge-week-one/static/css/main.792ad15c.chunk.css",
-    "main.js": "https://reactph.github.io/rehackt-challenge-week-one/static/js/main.d2c12df1.chunk.js",
-    "main.js.map": "https://reactph.github.io/rehackt-challenge-week-one/static/js/main.d2c12df1.chunk.js.map",
+    "main.js": "https://reactph.github.io/rehackt-challenge-week-one/static/js/main.078b41aa.chunk.js",
+    "main.js.map": "https://reactph.github.io/rehackt-challenge-week-one/static/js/main.078b41aa.chunk.js.map",
     "runtime-main.js": "https://reactph.github.io/rehackt-challenge-week-one/static/js/runtime-main.7db3290b.js",
     "runtime-main.js.map": "https://reactph.github.io/rehackt-challenge-week-one/static/js/runtime-main.7db3290b.js.map",
     "static/js/2.fc02b1c2.chunk.js": "https://reactph.github.io/rehackt-challenge-week-one/static/js/2.fc02b1c2.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.7db3290b.js",
     "static/js/3.5f128fbf.chunk.js",
     "static/css/main.792ad15c.chunk.css",
-    "static/js/main.d2c12df1.chunk.js"
+    "static/js/main.078b41aa.chunk.js"
   ]
 }
